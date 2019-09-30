@@ -17,3 +17,8 @@ As you can s
 #### Dummy Classifier
 ![Dummy class scores](https://github.com/hmnathel/UFC_predict/blob/master/dummy_conf_matrixscore.png)
 ![Dummy class matrix](https://github.com/hmnathel/UFC_predict/blob/master/dummy_conf_matrix.png)
+
+## Random Forest After Grid Search
+#### Random Forest with Grid Search
+![RFGS scores and matrix](https://github.com/hmnathel/UFC_predict/blob/master/RFwGS_conf_matrix.png)
+![RFGS feature importance](https://github.com/hmnathel/UFC_predict/blob/master/RFwGS_feature_importance.png)
