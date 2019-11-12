@@ -2,7 +2,6 @@
 
 ## Overview
 
-<<<<<<< HEAD
 My goal for this project was to predict winner of UFC given the fighters previous fight stats
 =======
 The goal of this project was to predict the winner of UFC fights, given both fighters previous fight statistics. The data that I used to do this was obtained from https://www.kaggle.com/calmdownkarm/ufcdataset.
@@ -15,7 +14,6 @@ Using grid search for a random forest classifier, I was able to classify the win
 ## Data
 #### Distribution of Fight Winners (Red Corner Fighter vs. Blue Corner Fighter)
 ![Fight winner hist](https://github.com/hmnathel/UFC_predict/blob/master/Distribution_Winners.png)
-As you can s
 
 ## Baseline Model
 #### Dummy Classifier
