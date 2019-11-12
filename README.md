@@ -5,7 +5,6 @@
 My goal for this project was to predict winner of UFC given the fighters previous fight stats
 =======
 The goal of this project was to predict the winner of UFC fights, given both fighters previous fight statistics. The data that I used to do this was obtained from https://www.kaggle.com/calmdownkarm/ufcdataset.
->>>>>>> 5de47592cfc4b095390528ec8511499b2d709e25
 
 For my process, I first had to clean the data so that I could use it in classification models. I then ran a dummy model to find a baseline accuracy threashold that I wanted to beat. That baseline was about 58%. After establishing my baseline, I ran several classification models with all features, running grid search for a few to try to optimize the parameters of the models.
 
